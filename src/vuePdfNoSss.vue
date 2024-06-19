@@ -2,7 +2,7 @@
 <script>
 import componentFactory from "./componentFactory";
 import pdfjsWrapper from "./pdfjsWrapper";
-import pdfjsWorker from "pdfjs-dist/build/pdf.worker.entry";
+import pdfjsWorker from "pdfjs-dist/build/pdf.worker.mjs";
 
 var PDFJS = require("pdfjs-dist");
 if (process.env.VUE_ENV !== "server") {
