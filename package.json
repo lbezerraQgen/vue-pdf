@@ -2,7 +2,7 @@
   "name": "vue-pdf",
   "version": "4.2.0",
   "description": "vue.js pdf viewer",
-  "main": "src/vuePdfNoSss.vue",
+  "main": "src/vuePdfNoSssNoWorker.vue",
   "scripts": {},
   "repository": {
     "type": "git",
